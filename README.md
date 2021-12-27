@@ -21,6 +21,7 @@ This project is pre-configured with below libraries
 * Clone this repo.
 * Rename project folder name to what ever the new project you want.
 * Edit package.json , update values of "name" , "description" and "author" with proper names.
+* Rename .env.sample file in .env to add your environment variables
 * Start coding in src folder.
 
 ### Run project
